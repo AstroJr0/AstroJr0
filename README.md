@@ -15,7 +15,7 @@ Professional at doing things the wrong way until they work.<br>Soldered first, r
 ## Social
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rehanjayed01@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@astro__ren0-CA49D6?style=for-the-badge&logo=instagram)](https://www.instagram.com/astro_ren0)
+[![Instagram](https://img.shields.io/badge/Instagram-@cosmic__ren0-CA49D6?style=for-the-badge&logo=instagram)](https://www.instagram.com/cosmic_ren0)
 
 ![Clash Of Clans](https://img.shields.io/badge/Clash%20of%20clans-%23G8UC9PRVR-d4b119?style=for-the-badge&labelColor=725959&logo=bitrise&logoColor=white)
 
