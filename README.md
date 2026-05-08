@@ -1,12 +1,12 @@
 <br clear="both">
 
 <h1 align="center">JAYED HERE!! 👋👋</h1>
-<h3 align="center" >Hey there! It's Me Jayed. <br />
+<p align="left" >Hey there! It's Me Jayed. <br />
   A <b>Student Dev</b> (Rn). I have summoned stuff using arsenals below. <br />
-  I have 4 Years of coding experience. <br /> 
-  I won national level programming contest in 2025 (NHSPC—25). <br />
+  I have <b>4 Years<b/> of coding experience. <br /> 
+  I won <b>national level</b> programming contest in 2025 <b>(NHSPC—25)<b/>. <br />
   Thats all i have to tell. See yall Soon.
-</h3>
+</p>
 
 
 <br clear="both">
