@@ -2,24 +2,16 @@
 
 <h1 align="center">JAYED HERE!! 👋👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AstroJr0/AstroJr0/stats-output/stats.svg" height="158" alt="stats graph"  />
-</div>
-
-###
-
 <br clear="both">
 
-<h3 align="center">- ARSENALS -</h3>
+<h3 align="center">— ARSENALS —</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
