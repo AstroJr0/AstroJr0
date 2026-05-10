@@ -2,9 +2,9 @@
 
 <h1 align="center">JAYED HERE!! 👋👋</h1>
 <p align="left" >Hey there! It's Me Jayed. <br />
-  A <b>Student Dev</b> (Rn). I have summoned stuff using arsenals below. <br />
-  I have <b>4 Years<b/> of coding experience. <br /> 
-  I won <b>national level</b> programming contest in 2025 <b>(NHSPC—25)<b/>. <br />
+  A <code><b>Student Dev</b></code> (Rn). I have summoned stuff using arsenals below. <br />
+  I have <code><b>4 Years</b></code> of <b><code>personal coding experience.</code></b> <br /> 
+  I won <code><b>national level</b></code> programming contest in 2025 <code><b>(NHSPC—25)<b/></code>. <br />
   Thats all i have to tell. See yall Soon.
 </p>
 
@@ -41,15 +41,9 @@
 
 <h2 align="center">— Socials ( And PFP ) —</h2>
 
-###
-
-<img align="right" height="150" src="https://github.com/AstroJr0/astrojr0.github.io/blob/main/pfp.jpg?raw=true"  />
-
-###
-
 <div align="left">
-  <a href="https://instagram.com/cosmic_ren0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=COSMIC_REN0&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://instagram.com/cat.nip.png" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=KAT_NIPZ&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:rehanjayed01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=rehanjayed01@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
