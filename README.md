@@ -5,7 +5,6 @@
   A <code><b>Student Dev</b></code> (Rn). I have summoned stuff using arsenals below. <br />
   I have <code><b>4 Years</b></code> of <b><code>personal coding experience.</code></b> <br /> 
   I won <code><b>national level</b></code> programming contest in 2025 <code><b>(NHSPC—25)<b/></code>. <br />
-  Thats all i have to tell. See yall Soon.
 </p>
 
 
