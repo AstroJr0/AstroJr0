@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h3 align="center">— ARSENALS —</h3>
+<h3 align="center">My Stacks</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 </div>
 
 ###
-<h3 align="center">— EMBEDDED DEVICES I OWN —</h3>
+<h3 align="center"> EMBEDDED DEVICES I OWN </h3>
 
 - ESP32 WROOM (With a exploded cap :) )
 - ESP32-S3 CAM N16R8 (CAM)
@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<h2 align="center">— Socials ( And PFP ) —</h2>
+<h2 align="center"> Socials</h2>
 
 <div align="left">
   <a href="mailto:rehanjayed01@gmail.com" target="_blank">
