@@ -1,16 +1,16 @@
 <br clear="both">
 
-<h1 align="center">JAYED HERE!! 👋👋</h1>
-<p align="left" >Hey there! It's Me Jayed. <br />
-  A <code><b>High School Student Dev</b></code> (Rn). I have summoned stuff using arsenals below. <br />
-  I have <code><b>4 Years</b></code> of <b><code>personal coding experience.</code></b> <br /> 
-  I have won for <code><b>regional level</b></code> programming contest in 2025 <code><b>(NHSPC—25)<b/></code>. <br />
+<h1 align="center">JAYED HERE! 👋</h1>
+<p align="left" >Hey there! It's Me <b>Jayed.</b> <br />
+  a <code><b>high school student dev</b></code> <i>(rn)</i>.<br />
+  rocking with <code><b>4 Years</b></code> of <b><code>personal coding experience.</code></b> <br /> 
+  one of the <code><b>gold medalists</b></code> of a programming contest in 2025 <i>(held by government, across the country)</i> <code><b>(NHSPC—25)</b></code> <br />
 </p>
 
 
 <br clear="both">
 
-<h3 align="center">My Stacks</h3>
+<h3 align="center">my stacks</h3>
 
 ###
 
@@ -20,10 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
@@ -35,18 +31,10 @@
 </div>
 
 ###
-<h3 align="center"> EMBEDDED DEVICES I OWN </h3>
-
-- ESP32 WROOM (With a exploded cap :) )
-- ESP32-S3 CAM N16R8 (CAM)
-
-
-###
-###
 
 <br clear="both">
 
-<h2 align="center"> Socials</h2>
+<h2 align="center">socials <i>(mostly inactive but i read my emails regularly)</i></h2>
 
 <div align="left">
   <a href="mailto:rehanjayed01@gmail.com" target="_blank">
