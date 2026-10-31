@@ -27,8 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="50" alt="tauri logo"  />
 </div>
+
+Currently learning:
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
+(Rust)
 
 ###
 
