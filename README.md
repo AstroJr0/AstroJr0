@@ -29,9 +29,8 @@
   <img width="12" />
 </div>
 
-Currently learning:
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
-(Rust)
+Currently learning: <br />
+  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="rust logo"  />
 
 ###
 
