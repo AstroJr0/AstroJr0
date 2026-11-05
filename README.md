@@ -48,5 +48,3 @@ Currently learning: <br />
 </div>
 
 ###
-
-[![AstroJr0's GitHub Stats](https://www.githubstats.tech/api/card?username=AstroJr0&theme=great-gatsby&size=small&show_name=0&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0&show_profile=1&show_top_percent=1&contrib_stars=1)](https://www.githubstats.tech)
