@@ -11,8 +11,8 @@ So creative work is being used to train the clankers, which i dont appreciate. M
 The tech monopoly harvests open-source repositories as raw material to train its proprietary Clankers,
 commodifying uncompensated digital labour[^24].
 
-GitHub lets anyone open issues and pull requests using Copilot[^1]. Projects can't opt out of
-receiving them, and nothing indicates that Copilot wrote them[^2]. By **September 2025**, the
+GitHub lets anyone open issues and pull requests using their Clanker[^1]. Projects can't opt out of
+receiving them, and nothing indicates that their clanker wrote them[^2]. By **September 2025**, the
 most-upvoted discussion of the year on GitHub's own community forum was a request to block this,
 and the second was a request to be able to turn off Copilot *(clanker)* code review[^9]. Neither was resolved.
 Around the same time, GitHub's CEO told developers to embrace Home-made clankers or get out[^10], then stepped
